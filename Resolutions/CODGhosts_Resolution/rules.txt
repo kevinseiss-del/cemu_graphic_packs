@@ -1,7 +1,7 @@
 [Definition]
-titleIds = 0005000010146800,0005000010156100,0005000010157900
+titleIds = 1407375153116928
 name = Resolution
-path = "Call of Duty: Ghosts/Graphics/Resolution"
+path = "Call of Duty: Black Ops 2/Graphics/Resolution"
 description = Changes the game's resolution. Made by Atom.
 version = 4
 
